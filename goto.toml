@@ -2,8 +2,8 @@ id = "goto"
 title = "Goes to places…"
 aliases = [
     "goto",
-    "go",
     "move to",
+    "go",
 ]
 description = """
 <c yellow>'goto'</c> is used to go to e.g. various directions, like:
