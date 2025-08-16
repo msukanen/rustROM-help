@@ -1,0 +1,11 @@
+id = "q"
+aliases = ["q"]
+title = "Why would you help Q?! Crazy talk…"
+description = """
+<c cyan>"Q"</c>, a sort of famous character in Star Trek franchise of old.
+
+You don't want to help him.
+
+Or did you mean something like '<c yellow>help q dir</c>', which would give you
+a list of directions without header fluff?
+"""
