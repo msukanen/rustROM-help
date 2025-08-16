@@ -1,0 +1,19 @@
+id = "hedit-internal-commands"
+title = "HEdit - commanding the tools..."
+aliases = ["hedit-internal-commands"]
+description = """
+Internal commands of <c cyan>HEdit</c>:
+
+  * admin
+  * alias
+  * builder
+  * data
+  * desc
+  * save
+  * title
+
+Each of the commands has their usage info available with <c yellow>'?'</c>, like:
+    <c yellow>alias ?</c>
+"""
+admin = false
+builder = false

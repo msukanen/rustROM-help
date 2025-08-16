@@ -1,0 +1,10 @@
+id = "return"
+aliases = ["return"]
+title = "Returns to previous command context."
+description = """
+<c yellow>'return'</c> command returns to previous command context (if applicable).
+For example, if you're in one or other editor context, <c yellow>'return'</c> puts you back
+in to earlier context, whether it was another editor or some gameplay state.
+
+<c green>Usage:</c> return
+"""

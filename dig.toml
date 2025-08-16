@@ -1,0 +1,10 @@
+id = "dig"
+title = "Diggy-diggy-ho, dwarven style…"
+aliases = ["dig"]
+description = """
+<c yellow>'dig'</c> command is used to carve out a new <c cyan>[Room]</c> at some given direction.
+If the command succeeds, a new <c cyan>[Room]</c> will be created, you will be transported
+there, and your normal command interface is switched to that of the builder tools.
+
+<c green>Usage: </c>dig <c cyan>[DIR] [ROOM-ID]</c>
+"""

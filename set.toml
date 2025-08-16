@@ -1,0 +1,16 @@
+id = "set"
+title = "sets some (global) in-game variable"
+admin = true
+description = """
+<c yellow>'set'</c> command is used to set/check a variety of in-game values.
+
+Currently supported (global) sets are:
+
+  <c blue>*</c> <c green>greeting</c>        -- the initial welcome message when someone connects.
+  <c blue>*</c> <c green>welcome_back</c>    -- 'welcome back' message for returning players.
+  <c blue>*</c> <c green>welcome_new</c>     -- welcome message for the new players (also alts).
+
+<c green>Usage: </c>set <c cyan>[FIELD] [VALUE]</c>
+       set ro <c cyan>[FIELD]</c>
+"""
+aliases = ["set"]

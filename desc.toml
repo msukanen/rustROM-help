@@ -1,0 +1,11 @@
+id = "desc"
+aliases = ["desc", "description"]
+builder = true
+title = "Describe, describe! <c gray>(Dalek voice)</c>"
+description = """
+<c yellow>'desc'</c> (without arguments) is used to show the current description and, with
+a freeform string, to modify/overwrite an existing one.
+
+<c green>Usage:</c> desc
+       desc <c cyan>[DESCRIPTION]</c>
+"""

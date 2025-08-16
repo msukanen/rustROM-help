@@ -1,0 +1,10 @@
+id = "dmg"
+title = "Causes/repairs damage…"
+aliases = ["dmg", "fix"]
+admin = true
+description = """
+<c yellow>'dmg' is used to cause/repair any physical damage present on any target creature.
+
+<c green>Usage: </c>dmg self|<c cyan>[TARGET] [AMOUNT]</c>
+       dmg fix self|<c cyan>[TARGET] [AMOUNT]</c>
+"""

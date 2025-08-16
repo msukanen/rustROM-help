@@ -1,0 +1,11 @@
+id = "hedit-builder"
+aliases = ["hedit-builder"]
+admin = false
+builder = true
+title = "Builder-only flagging"
+description = """
+<c yellow>'builder'</c> sets/unsets a help entry's builder-only flag.
+
+<c green>Usage:</c> builder             -- display current state.
+       builder <c cyan>[BOOL]</c>      -- sets/unsets the builder-only flag.
+"""

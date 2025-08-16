@@ -1,0 +1,11 @@
+id = "hedit-admin"
+aliases = ["hedit-admin"]
+admin = false
+builder = true
+title = "Admin-only flagging"
+description = """
+<c yellow>'admin'</c> sets/unsets a help entry's admin-only flag.
+
+<c green>Usage:</c> admin               -- display current state.
+       admin <c cyan>[BOOL]</c>        -- sets/unsets the admin-only flag.
+"""

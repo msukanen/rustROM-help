@@ -1,0 +1,11 @@
+id = "bool"
+aliases = ["bool", "boolean"]
+title = "Boolean value"
+description = """
+What is considered <c cyan>[BOOL]</c>? It's one or other of the following:
+
+    Set     Unset
+    true    false
+    on      off
+    +       -
+"""

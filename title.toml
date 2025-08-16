@@ -1,0 +1,10 @@
+id = "title"
+aliases = ["title"]
+builder = true
+title = "Sets title/name of something or other."
+description = """
+<c yellow>'title'</c> is used to set the title/name of something or other.
+
+<c green>Usage:</c> title
+       title [TEXT]
+"""

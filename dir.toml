@@ -1,0 +1,14 @@
+id = "dir"
+aliases = ["dir", "direction",
+           "north", "south", "west", "east",
+           "northwest", "northeast", "southwest", "southeast",
+           "up", "down"]
+title = "Directions, directions!"
+description = """
+Going to/looking at various directions involves one or the other of the
+following values:
+
+  * north, south, east, west
+  * northeast, northwest, southeast, southwest
+  * up, down
+"""

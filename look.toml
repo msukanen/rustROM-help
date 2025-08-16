@@ -1,0 +1,11 @@
+id = "look"
+title = "Look | Looking"
+aliases = ["look", "l"]
+description = """
+The <c yellow>'look'</c> command is used for looking around (and/or at, in, and so forth).
+
+<c green>Usage:</c> look
+       look <c cyan>[DIR]</c>
+       look at <c cyan>[SOMETHING]</c>
+       look in <c cyan>[CONTAINER]</c>
+"""

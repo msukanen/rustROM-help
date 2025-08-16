@@ -1,0 +1,12 @@
+id = "goto"
+aliases = ["goto", "go", "move to"]
+title = "Goes to places…"
+description = """
+<c yellow>'goto'</c> is used to go to e.g. various directions, like:
+
+    North, East, South, West,
+    NorthEast, NorthWest, SouthEast, SouthWest,
+    Up, and Down.
+
+<c green>Usage:</c> goto <c cyan>[DIRECTION]</c>
+"""
