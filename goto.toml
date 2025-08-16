@@ -1,6 +1,10 @@
 id = "goto"
-aliases = ["goto", "go", "move to"]
 title = "Goes to places…"
+aliases = [
+    "goto",
+    "go",
+    "move to",
+]
 description = """
 <c yellow>'goto'</c> is used to go to e.g. various directions, like:
 
@@ -10,3 +14,5 @@ description = """
 
 <c green>Usage:</c> goto <c cyan>[DIRECTION]</c>
 """
+admin = false
+builder = false
