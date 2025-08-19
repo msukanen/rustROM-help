@@ -1,0 +1,9 @@
+id = "ask"
+aliases = ["ask", "question", "qa", "q&a"]
+title = "If you have question, you just have to ask..."
+description = """
+<c yellow>'ask'</c> command, with a question text following it, posts the question globally
+for someone to (potentially) answer to.
+
+<c green>Usage:</c> ask <c cyan>[TEXT]</c>
+"""
