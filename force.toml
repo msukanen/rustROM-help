@@ -1,0 +1,14 @@
+id = "force"
+aliases = ["force", "force all"]
+admin = true
+title = "Use the Force, Dave…"
+description = """
+<c yellow>'force'</c> is used to force someone or something to do something.
+
+<c green>Usage:</c> force <c cyan>[TARGET] [COMMAND [ARGS]]</c>
+       force all <c cyan>[COMMAND [ARGS]]</c>
+
+<c red>---</c>
+<c cyan>"With great power comes great responsibility"</c>, and therefore, this command
+is to be used sparingly, if ever at all.
+"""
