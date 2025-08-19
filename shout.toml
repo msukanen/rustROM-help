@@ -1,0 +1,10 @@
+id = "shout"
+aliases = ["shout"]
+title = "Don't shout 'wolf' though, without reason …"
+description = """
+<c yellow>'shout'</c> command is akin to simple <c yellow>'say'</c>, but its message carries some distance
+to e.g. surrounding rooms.  Closed doors and such may block shout from being
+heard…
+
+<c green>Usage:</c> shout <c cyan>[TEXT]</c>
+"""
