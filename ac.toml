@@ -1,0 +1,9 @@
+id = "ac"
+aliases = ["ac", "admin chat", "achat"]
+title = "Admin-only!"
+admin = true
+description = """
+<c yellow>'ac'</c> posts a message onto admin-only channel.
+
+<c green>Usage:</c> ac <c cyan>[TEXT]</c>
+"""
