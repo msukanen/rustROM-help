@@ -1,0 +1,13 @@
+id = "redit-desc"
+aliases = ["redit-desc"]
+builder = true
+title = "REdit - Description"
+description = """
+'desc' brings up description of the current room in REdit or modifies it.
+
+desc +[TEXT]    -- adds [TEXT] to end of description.
+desc +[#] [TEXT]  -- adds [TEXT] at line number #.
+                     if # is 1, [TEXT] is inserted as the new first line.
+desc -[#]         -- removes line number #
+desc !erase       -- wipes whole description away.
+"""
