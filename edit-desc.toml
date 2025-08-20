@@ -1,0 +1,24 @@
+id = "edit-desc"
+aliases = ["edit-desc"]
+builder = true
+title = "Editing - Description"
+description = """
+<c yellow>'desc'</c> brings up description of the currently edited entity, be it a room,
+area, item… or anything else with description text.
+
+<c green>Usage:</c>
+desc                            -- without arguments, shows current description.
+desc ?                          -- well... you're reading now what it does...
+desc +<c cyan>[#] [TEXT]</c>    -- inserts <c cyan>[TEXT]</c> as line number <c cyan>[#]</c>.
+                    if <c cyan>#</c> is 1, <c cyan>[TEXT]</c> is inserted inserted in front of the
+                    original text (with line-feed appended).
+desc -<c cyan>[#]</c>           -- removes line number <c cyan>#</c>.
+desc =<c cyan>[TEXT]</c>        -- replaces whole description with <c cyan>[TEXT]</c>.
+
+To see results instantly, append 'v' "flag" in front, like:
+    <c yellow>desc v+2 Will add this text as 2nd line.</c>
+
+<c red>NOTE:</c>
+ * line numbering is natural one, not zero-based.
+ * zero/negative line numbers result in harsh words…
+"""
