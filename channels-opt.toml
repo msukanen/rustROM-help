@@ -1,5 +1,5 @@
 id = "channels-opt"
-aliases = ["opt-in", "opt-out"]
+aliases = ["channels-opt", "opt-in", "opt-out"]
 title = "Communication is the key …"
 description = """
 To opt in/out:
