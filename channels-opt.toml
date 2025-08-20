@@ -1,0 +1,9 @@
+id = "channels-opt"
+aliases = ["opt-in", "opt-out"]
+title = "Communication is the key …"
+description = """
+To opt in/out a channel:
+
+       channels in <c cyan>CHANNEL</c>
+       channels out <c cyan>CHANNEL</c>
+"""
