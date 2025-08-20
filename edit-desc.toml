@@ -19,6 +19,6 @@ To see results instantly, append 'v' "flag" in front, like:
     <c yellow>desc v+2 Will add this text as 2nd line.</c>
 
 <c red>NOTE:</c>
- * line numbering is natural one, not zero-based.
- * zero/negative line numbers result in harsh words…
+  <c blue>*</c> line numbering is natural one, not zero-based.
+  <c blue>*</c> zero/negative line numbers result in harsh words…
 """

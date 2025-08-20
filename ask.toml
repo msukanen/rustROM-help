@@ -5,5 +5,5 @@ description = """
 <c yellow>'ask'</c> command, with a question text following it, posts the question globally
 for someone to (potentially) answer to.
 
-<c green>Usage:</c> ask <c cyan>[TEXT]</c>
+<c green>Usage:</c> ask <c cyan>TEXT</c>
 """

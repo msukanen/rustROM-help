@@ -3,4 +3,8 @@ title = "RustROM"
 aliases = ["rustrom"]
 description = """
 RustROM v0
+
+A MUD engine built from scratch in Rust.
+
+<c green>EVERYTHING</c> by <c cyan>Markku Sukanen</c> <c gray><markku.sukanen@gmail.com></c>
 """

@@ -12,7 +12,7 @@ description = """
     NorthEast, NorthWest, SouthEast, SouthWest,
     Up, and Down.
 
-<c green>Usage:</c> goto <c cyan>[DIRECTION]</c>
+<c green>Usage:</c> goto <c cyan>DIR</c>
 """
 admin = false
 builder = false

@@ -6,5 +6,5 @@ description = """
 <c yellow>'bc'</c> posts a message onto builders-only channel, which admins, naturally, can
 read too just the same.
 
-<c green>Usage:</c> bc <c cyan>[TEXT]</c>
+<c green>Usage:</c> bc <c cyan>TEXT</c>
 """

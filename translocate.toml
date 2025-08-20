@@ -7,6 +7,5 @@ description = """
 (existing) location in the world.  The command, obviously, fails if target
 location does not exist.
 
-<c green>Usage:</c> translocate self <c cyan>[ROOM-ID]</c>
-       translocate <c cyan>[TARGET] [ROOM-ID]</c>
+<c green>Usage:</c> translocate <c cyan>TARGET</c> <c cyan>ROOM-ID</c>
 """

@@ -7,5 +7,5 @@ description = """
 a freeform string, to modify/overwrite an existing one.
 
 <c green>Usage:</c> desc
-       desc <c cyan>[DESCRIPTION]</c>
+       desc <c cyan>DESCRIPTION</c>
 """

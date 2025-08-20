@@ -9,7 +9,7 @@ If given text ends with an exclamation mark you will instead of "saying"
 "exclaim" instead.  Akin to exclaims, statements that end with a question mark
 are converted into <c yellow>'ask'</c> questions.
 
-<c green>Usage:</c> say <c cyan>[TEXT]</c>
+<c green>Usage:</c> say <c cyan>TEXT</c>
 
 <c green>See:</c> <c blue>[<c cyan>ask</c>]</c>
 """

@@ -6,5 +6,5 @@ description = """
 If the command succeeds, a new <c cyan>[Room]</c> will be created, you will be transported
 there, and your normal command interface is switched to that of the builder tools.
 
-<c green>Usage: </c>dig <c cyan>[DIR] [ROOM-ID]</c>
+<c green>Usage: </c>dig <c cyan>DIR ROOM-ID</c>
 """

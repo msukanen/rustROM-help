@@ -1,5 +1,5 @@
 id = "set"
-title = "sets some (global) in-game variable"
+title = "Setting some (global) in-game variable(s) …"
 admin = true
 description = """
 <c yellow>'set'</c> command is used to set/check a variety of in-game values.
@@ -10,7 +10,10 @@ Currently supported (global) sets are:
   <c blue>*</c> <c green>welcome_back</c>    -- 'welcome back' message for returning players.
   <c blue>*</c> <c green>welcome_new</c>     -- welcome message for the new players (also alts).
 
-<c green>Usage: </c>set <c cyan>[FIELD] [VALUE]</c>
-       set ro <c cyan>[FIELD]</c>
+<c green>Usage: </c>set <c cyan>FIELD VALUE</c>
+       set ro <c cyan>FIELD</c>
+
+NOTE:
+  <c blue>*</c> <c yellow>ro</c> flag simply reads the corresponding FIELD's current value.
 """
 aliases = ["set"]

@@ -4,16 +4,16 @@ aliases = ["hedit-alias"]
 description = """
 <c yellow>'alias'</c> is used to give a variety of aliases for any given help entry.
 
-<c green>Usage:</c> alias             -- lists all current aliases.
-       alias +<c cyan>[ALIAS]</c>    -- adds new alias.
-       alias -<c cyan>[ALIAS]</c>    -- removes an alias (if present).
+<c green>Usage:</c> alias           -- lists all current aliases.
+       alias +<c cyan>ALIAS</c>    -- adds new alias.
+       alias -<c cyan>ALIAS</c>    -- removes an alias (if present).
 
 Operations can be chained freely, e.g.:
     <c yellow>alias +foo -bar +baz -gas</c>
 
 NOTES:
- - Duplicate entries and removal attempts of non-existing aliases are ignored.
- - Primary ID of a help entry cannot be unaliased.
+  <c blue>*</c> Duplicate entries and removal attempts of non-existing aliases are ignored.
+  <c blue>*</c> Primary ID of a help entry cannot be unaliased.
 """
 admin = false
 builder = true

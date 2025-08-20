@@ -4,13 +4,13 @@ aliases = ["hedit-internal-commands"]
 description = """
 Internal commands of <c cyan>HEdit</c>:
 
-  * admin
-  * alias
-  * builder
-  * data
-  * desc
-  * save
-  * title
+  <c blue>*</c> admin
+  <c blue>*</c> alias
+  <c blue>*</c> builder
+  <c blue>*</c> data
+  <c blue>*</c> desc
+  <c blue>*</c> save
+  <c blue>*</c> title
 
 Each of the commands has their usage info available with <c yellow>'?'</c>, like:
     <c yellow>alias ?</c>
