@@ -6,7 +6,7 @@ description = """
 <c yellow>'force'</c> is used to force someone or something to do something.
 
 <c green>Usage:</c> force <c blue>[-]</c> <c cyan>TARGET COMMAND <c blue>[ARGS]</c></c>
-       force all <c blue>[-]</c> <c cyan>COMMAND <c blue>[ARGS]</c></c>
+       force <c blue>[-]</c> all <c cyan>COMMAND <c blue>[ARGS]</c></c>
 
 <c red>NOTE:</c>
   <c blue>*</c> <c blue>[<c cyan>-</c>]</c> flag posts the COMMAND anonymously.
