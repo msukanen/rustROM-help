@@ -9,7 +9,7 @@ description = """
        force <c blue>[-]</c> all <c cyan>COMMAND <c blue>[ARGS]</c></c>
 
 <c red>NOTE:</c>
-  <c blue>*</c> <c blue>[<c cyan>-</c>]</c> flag posts the COMMAND anonymously.
+  <c gray>*</c> <c blue>[<c cyan>-</c>]</c> flag posts the COMMAND anonymously.
     To be used internally by e.g. scripts or spells, etc.
 <c red>---</c>
 <c cyan>"With great power comes great responsibility"</c>, and therefore, this command

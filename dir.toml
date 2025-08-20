@@ -8,11 +8,11 @@ description = """
 Going to/looking at various directions involves one or the other of the
 following values:
 
-  <c blue>*</c> north, south, east, west
-  <c blue>*</c> northeast, northwest, southeast, southwest
-  <c blue>*</c> up, down
+  <c gray>*</c> north, south, east, west
+  <c gray>*</c> northeast, northwest, southeast, southwest
+  <c gray>*</c> up, down
 
 Situationally other "directions" might be available, e.g.:
 
-  <c blue>*</c> door, portal, gate, window, trapdoor, etc. …
+  <c gray>*</c> door, portal, gate, window, trapdoor, etc. …
 """

@@ -7,9 +7,9 @@ to opt-in and opt-out from some of them, while some channels are by their
 nature "always on".
 
 Some examples of opt-in CHANNEL include, but are not limited to:
-  <c blue>*</c> Newbie     -- a channel for all sorts of newcomer issues.
-  <c blue>*</c> OOC        -- generic Out-Of-Character chatter.
-  <c blue>*</c> QA         -- Questions & Answers. But do leave OOC questions for OOC…
+  <c gray>*</c> Newbie     -- a channel for all sorts of newcomer issues.
+  <c gray>*</c> OOC        -- generic Out-Of-Character chatter.
+  <c gray>*</c> QA         -- Questions & Answers. But do leave OOC questions for OOC…
 
 <c green>Usage:</c> channels
        channels in <c cyan>CHANNEL</c>

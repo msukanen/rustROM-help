@@ -9,5 +9,5 @@ description = """
        dmg fix <c cyan>TARGET AMOUNT</c>
 
 <c red>NOTE:</c>
-  <c blue>*</c> AMOUNT is a percentage value.
+  <c gray>*</c> AMOUNT is a percentage value.
 """

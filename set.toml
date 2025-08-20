@@ -6,14 +6,14 @@ description = """
 
 Currently supported (global) sets are:
 
-  <c blue>*</c> <c green>greeting</c>        -- the initial welcome message when someone connects.
-  <c blue>*</c> <c green>welcome_back</c>    -- 'welcome back' message for returning players.
-  <c blue>*</c> <c green>welcome_new</c>     -- welcome message for the new players (also alts).
+  <c gray>*</c> <c green>greeting</c>        -- the initial welcome message when someone connects.
+  <c gray>*</c> <c green>welcome_back</c>    -- 'welcome back' message for returning players.
+  <c gray>*</c> <c green>welcome_new</c>     -- welcome message for the new players (also alts).
 
 <c green>Usage: </c>set <c cyan>FIELD VALUE</c>
        set ro <c cyan>FIELD</c>
 
 NOTE:
-  <c blue>*</c> <c yellow>ro</c> flag simply reads the corresponding FIELD's current value.
+  <c gray>*</c> <c yellow>ro</c> flag simply reads the corresponding FIELD's current value.
 """
 aliases = ["set"]

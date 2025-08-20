@@ -12,8 +12,8 @@ Operations can be chained freely, e.g.:
     <c yellow>alias +foo -bar +baz -gas</c>
 
 NOTES:
-  <c blue>*</c> Duplicate entries and removal attempts of non-existing aliases are ignored.
-  <c blue>*</c> Primary ID of a help entry cannot be unaliased.
+  <c gray>*</c> Duplicate entries and removal attempts of non-existing aliases are ignored.
+  <c gray>*</c> Primary ID of a help entry cannot be unaliased.
 """
 admin = false
 builder = true
