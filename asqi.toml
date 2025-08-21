@@ -1,7 +1,7 @@
 id = "asqi"
 aliases = ["asqi", "auto-save-interval", "auto-save-queue-interval"]
 admin = true
-title = "Timeing adjustment - Auto-save queue interval"
+title = "Timing adjustment - Auto-save queue interval"
 description = """
 <c yellow>'asqi'</c> alters the auto-save queue's execution interval in real-time without
 restart and/or configuration changes.
