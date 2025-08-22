@@ -1,0 +1,14 @@
+id = "take"
+aliases = ["take", "pick"]
+title = "Items - take (a pick…)"
+description = """
+<c yellow>'take'</c> command attempts to pick up an item from the floor, from a container,
+or anywhere else where the desired item might be sitting in/on/at.
+
+<c green>Usage:</c> take <c cyan>ITEM</c>
+
+<c red>NOTE:</c>
+  <c gray>*</c> Item name is not taken verbatim, to take e.g. a <c cyan>"weapon of mighty mauling"</c>
+    from the floor, just type <c cyan>'take weapon'</c> or <c cyan>'take w'</c>, as long as the
+    shorthand correctly identifies what you have in mind.
+"""
