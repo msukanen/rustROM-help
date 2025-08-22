@@ -1,0 +1,11 @@
+id = "put"
+aliases = ["put", "drop", "insert"]
+title = "Put that thing down …"
+description = """
+<c yellow>'put'</c> command puts, drops, and/or inserts an item somewhere.  Its variant,
+<c yellow>'drop'</c> puts the item on ground/floor.  Target can be pretty much anything
+that can hold something else within or atop itself.
+
+<c green>Usage: put <c cyan>ITEM TARGET</c>
+       drop <c cyan>ITEM</c>
+"""
