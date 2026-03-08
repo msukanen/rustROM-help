@@ -1,0 +1,9 @@
+id = "scry"
+aliases = ["scry"]
+title = "What does my little scry spy?"
+admin = true
+description = """
+<c yellow>'scry'</c> command is used to see what its target see (and possibly more).
+
+<c green>Usage:</c> scry <c cyan>TARGET</c>
+"""
