@@ -1,0 +1,10 @@
+id = "emote"
+aliases = ["emote"]
+title = "Emote something…"
+description = """
+<c yellow>'emote'</c> command in all its simplicity is used for roleplaying
+e.g. emotions shown or some sort of activity that has no game mechanics
+baked in, etc.
+
+<c green>Usage:</c> emote <c cyan>TEXT</c>
+"""
