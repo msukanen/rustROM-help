@@ -1,0 +1,9 @@
+id = "who"
+aliases = ["who"]
+title = "Who's online (and where)"
+description = """
+<c yellow>'who'</c> command shows the visible players who are online and their current
+whereabouts.
+
+<c green>USAGE:</c> who
+"""
