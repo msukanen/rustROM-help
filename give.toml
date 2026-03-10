@@ -1,0 +1,8 @@
+id = "give"
+aliases = ["give", "hand-out"]
+title = "Giving something to someone…"
+description = """
+<c yellow>'give'</c> command is, naturally, used for giving something to someone else.
+
+<c green>Usage:</c> give <c cyan>ITEM</c> [to] <c cyan>TARGET</c>
+"""
