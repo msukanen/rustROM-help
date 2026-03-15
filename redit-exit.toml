@@ -1,0 +1,7 @@
+id = "exit"
+aliases = ["exit", "redit-exit"]
+builder = true
+title = "Exit is thattaway…"
+description = """
+<c yellow>'exit'</c> command is used for showing/editing room exits.
+"""

@@ -1,0 +1,6 @@
+id = "help"
+aliases = ["help", "?"]
+title = "When help/info is needed, one has to but ask for it…"
+description = """
+<c yellow>'help'</c> command provides info about things it knows about…
+"""
