@@ -1,0 +1,15 @@
+id = "shutdown"
+alias = ["shutdown", "terminate"]
+admin = true
+title = "Time to close the doors and switch off the lights, for a bit at least…"
+description = """
+<c yellow>'shutdown'</c> winds down the server, closes player connections, saves the world
+state and finally terminates the server process.
+
+So that shutdown doesn't come up with complete surprise for the players, by
+default <c yellow>'shutdown'</c> operates on 30 seconds countdown before executing the
+shutdown procedures.
+
+<c green>USAGE:</c>  shutdown
+        shutdown <c cyan>[SECONDS]</c>
+"""
