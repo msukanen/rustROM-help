@@ -1,0 +1,9 @@
+id = "sync"
+aliases = ["sync"]
+admin = true
+title = "Forced (onto disk) synchronization of the World state."
+description = """
+<c yellow>'sync'</c> command snapshots the current state of the World onto disk.
+
+<c green>USAGE:</c> sync
+"""
