@@ -1,5 +1,5 @@
 id = "shutdown"
-alias = ["shutdown", "terminate"]
+aliases = ["shutdown", "terminate"]
 admin = true
 title = "Time to close the doors and switch off the lights, for a bit at least…"
 description = """
