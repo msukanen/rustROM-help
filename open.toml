@@ -1,0 +1,7 @@
+id = "open"
+title = "Open sesame…"
+description = """
+<c yellow>'open'</c> command is used for opening e.g. doors or closed containers, etc.
+
+<c green>USAGE:</c>  open <c cyan>[TARGET<c blue>|</c>DIR]</c>
+"""
