@@ -1,0 +1,9 @@
+id = "drop"
+title = "Drop it!"
+description = """
+<c yellow>'drop'</c> command, if it can, drops onto ground whatever you tell it to drop.
+
+<c green>Usage: drop <c cyan>ITEM</c>
+
+<c green>See:</c> <c blue>[<c cyan>put</c>]</c>
+"""
