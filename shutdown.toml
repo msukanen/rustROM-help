@@ -11,5 +11,5 @@ default <c yellow>'shutdown'</c> operates on 30 seconds countdown before executi
 shutdown procedures.
 
 <c green>USAGE:</c>  shutdown
-        shutdown <c cyan>[SECONDS]</c>
+        shutdown <c cyan>SEC</c>
 """
