@@ -1,5 +1,6 @@
 id = "drop"
 title = "Drop it!"
+aliases = ["drop"]
 description = """
 <c yellow>'drop'</c> command, if it can, drops onto ground whatever you tell it to drop.
 

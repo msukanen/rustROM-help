@@ -2,7 +2,7 @@ id = "hedit-builder"
 aliases = ["hedit-builder"]
 admin = false
 builder = true
-title = "Builder-only flagging"
+title = "HEdit – Builder-only flagging"
 description = """
 <c yellow>'builder'</c> sets/unsets a help entry's builder-only flag.
 

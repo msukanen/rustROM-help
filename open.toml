@@ -1,7 +1,10 @@
 id = "open"
+aliases = ["open"]
 title = "Open sesame…"
 description = """
 <c yellow>'open'</c> command is used for opening e.g. doors or closed containers, etc.
 
-<c green>USAGE:</c>  open <c cyan>[TARGET<c blue>|</c>DIR]</c>
+<c green>Usage:</c>  open <c cyan>TARGET<c blue>|</c>DIR</c>
+
+<c green>See: <c blue>[<c cyan>close</c>]</c>, <c blue>[<c cyan>lock</c>]</c>
 """
